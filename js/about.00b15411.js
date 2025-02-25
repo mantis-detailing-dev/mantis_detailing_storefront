@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmantis_detailing_storefront"]=self["webpackChunkmantis_detailing_storefront"]||[]).push([[594],{3186:function(n,t,a){a.r(t),a.d(t,{default:function(){return c}});var e=a(6768);const r={class:"about"};function s(n,t){return(0,e.uX)(),(0,e.CE)("div",r,t[0]||(t[0]=[(0,e.Lk)("h1",null,"This is an about page",-1)]))}var u=a(1241);const i={},o=(0,u.A)(i,[["render",s]]);var c=o}}]);
+//# sourceMappingURL=about.00b15411.js.map
