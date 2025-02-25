@@ -7,6 +7,9 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
+  "devDependencies": {
+  "@vue/cli-service": "~5.0.0"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mantis-detailing-dev/mantis_detailing_storefront.git"
