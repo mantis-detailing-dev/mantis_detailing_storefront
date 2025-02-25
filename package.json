@@ -1,7 +1,6 @@
 {
   "name": "dist",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/mantis-detailing-dev/mantis_detailing_storefront/issues"
   },
-  "homepage": "https://github.com/mantis-detailing-dev/mantis_detailing_storefront#readme"
+  "homepage": "https://github.com/mantis-detailing-dev/mantis_detailing_storefront#readme",
+  "description": ""
 }
